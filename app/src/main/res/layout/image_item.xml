@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DisplayActivity"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="710dp"
+        android:orientation="vertical"
+        android:background="@drawable/foodback1">
+
+        <!--        <ProgressBar-->
+        <!--            android:id="@+id/progress_circle"-->
+        <!--            android:layout_width="208dp"-->
+        <!--            android:layout_height="208dp"-->
+        <!--            android:layout_centerInParent="true"-->
+        <!--            android:layout_marginLeft="70dp" />-->
+
+        <TextView
+            android:id="@+id/text_view_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="8dp"
+            android:text="Food Calories"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/image_view_upload"
+            android:layout_width="match_parent"
+            android:layout_marginTop="200dp"
+            android:layout_marginBottom="8dp"
+            android:layout_height="200dp"
+            android:src="@drawable/pombanana" />
+
+        <TextView
+            android:id="@+id/calories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="pomegranate: 72 calories\n banana: 117 calories"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+

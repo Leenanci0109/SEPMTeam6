@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Black">#020000</color>
+    <color name="basethemecolor">#ffff8800</color>
+    <color name="White">#fff</color>
+    <color name="light_purple">#9C27B0</color>
+    <color name="dark_purple">#7B1FA2</color>
+    <color name="light_teal">#80CBC4</color>
+    <color name="dark_teal">#00796B</color>
+    <color name="light_blue">#2a7ee6</color>
+    <color name="dark_blue">#76a5df</color>
+    <color name="orange">#ffff8800</color>
+    <color name="zircon">#e0e6e4</color>
+
+</resources>

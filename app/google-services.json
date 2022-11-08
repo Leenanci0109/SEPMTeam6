@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "12409800916",
+    "firebase_url": "https://database-23d01-default-rtdb.firebaseio.com",
+    "project_id": "database-23d01",
+    "storage_bucket": "database-23d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12409800916:android:89a671719e32951afe1341",
+        "android_client_info": {
+          "package_name": "com.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12409800916-06sv1qu4lm1q0p279m219laq04blfabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkK9CG-KgmuEjz3euz6xLOSPcfQhFJTvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12409800916-06sv1qu4lm1q0p279m219laq04blfabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12409800916:android:14e5bc853b79213afe1341",
+        "android_client_info": {
+          "package_name": "com.example.foodlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12409800916-06sv1qu4lm1q0p279m219laq04blfabt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkK9CG-KgmuEjz3euz6xLOSPcfQhFJTvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12409800916-06sv1qu4lm1q0p279m219laq04blfabt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
